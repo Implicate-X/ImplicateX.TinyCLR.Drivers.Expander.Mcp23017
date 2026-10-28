@@ -9,7 +9,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CEF6FF1A-2573-D219-ABBB-D85B5BAABE36}</ProjectGuid>
+    <ProjectGuid>{6898551B-EE98-4F02-B3E7-19407BC4E4DA}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>ImplicateX.TinyCLR.Drivers.Expander</RootNamespace>
