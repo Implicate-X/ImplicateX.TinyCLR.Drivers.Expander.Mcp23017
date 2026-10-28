@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/docs/">
+  </Folder>
+  <Project Path="ImplicateX.TinyCLR.Drivers.Expander.Mcp23017.csproj" Id="6898551b-ee98-4f02-b3e7-19407bc4e4da" />
+  <Project Path="App/ImplicateX.TinyCLR.Drivers.Expander.Mcp23017.App.csproj" Id="e65ce240-c284-4d34-b83a-b1ca2bedf2b0">
+    <Deploy />
+  </Project>
+</Solution>
