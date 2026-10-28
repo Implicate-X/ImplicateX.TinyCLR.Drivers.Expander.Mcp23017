@@ -1,15 +1,14 @@
 ﻿using System.Reflection;
-using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle( "ImplicateX.Drivers.Decoder.Ls7366" )]
+[assembly: AssemblyTitle( "ImplicateX.Drivers.Expander.Mcp23017" )]
 [assembly: AssemblyDescription( "" )]
 [assembly: AssemblyConfiguration( "" )]
 [assembly: AssemblyCompany( "" )]
-[assembly: AssemblyProduct( "ImplicateX.Drivers.Decoder.Ls7366" )]
+[assembly: AssemblyProduct( "ImplicateX.Drivers.Expander.Mcp23017" )]
 [assembly: AssemblyCopyright( "Copyright ©  2026" )]
 [assembly: AssemblyTrademark( "" )]
 [assembly: AssemblyCulture( "" )]
@@ -20,7 +19,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible( false )]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid( "6898551b-ee98-4f02-b3e7-19407bc4e4da" )]
+[assembly: Guid( "D2A676EA-8CB8-4E8A-96A1-455C3E7F9E68" )]
 
 // Version information for an assembly consists of the following four values:
 //
