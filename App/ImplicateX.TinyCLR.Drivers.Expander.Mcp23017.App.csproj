@@ -68,8 +68,8 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ImplicateX.TinyCLR.Drivers.Expander.Mcp23017.csproj">
-      <Project>{6898551B-EE98-4F02-B3E7-19407BC4E4DA}</Project>
-      <Name>ImplicateX.TinyCLR.Drivers.Decoder.Ls7366</Name>
+      <Project>{CEF6FF1A-2573-D219-ABBB-D85B5BAABE36}</Project>
+      <Name>ImplicateX.TinyCLR.Drivers.Expander.Mcp23017</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
