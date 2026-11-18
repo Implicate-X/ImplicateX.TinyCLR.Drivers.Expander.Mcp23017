@@ -3,6 +3,9 @@
     <File Path="README.md" />
   </Folder>
   <Project Path="ImplicateX.TinyCLR.Drivers.Expander.Mcp23017.csproj" Id="cef6ff1a-2573-d219-abbb-d85b5baabe36" />
+  <Folder Name="/GHI/">
+    <Project Path="../../../Libraries/GHIElectronics.TinyCLR.Pins/GHIElectronics.TinyCLR.Pins.csproj" Id="2dceef58-5455-457c-b968-52d791605d07" />
+  </Folder>
   <Project Path="App/ImplicateX.TinyCLR.Drivers.Expander.Mcp23017.App.csproj" Id="e65ce240-c284-4d34-b83a-b1ca2bedf2b0">
     <Deploy />
   </Project>
